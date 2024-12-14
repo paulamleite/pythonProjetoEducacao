@@ -1,0 +1,19 @@
+dc_tipo;cd_municipio_ibge;nm_municipio;dc_rede_escola;cd_escola_inep;nm_escola;dc_etapa_turma;nm_turma;dc_disciplina;qt_alunos_previstos;qt_alunos_avaliados;tx_participacao;qt_media_itens_apresentados;qt_media_itens_respondidos;qt_media_acertos;tx_media_acertos;dc_classificacao
+Turma;310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Lufa-Lufa;LP;5;5;100.0;10;10;7;70.0;Médio
+Turma;310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Corvinal;LP;5;4;80.0;10;10;6;60.0;Médio
+Turma;310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;MT;5;4;80.0;10;10;8;80.0;Alto
+Turma;310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;LP;5;5;100.0;12;11;10;90.91;Alto
+Turma;310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;MT;5;5;100.0;10;10;5;50.0;Médio
+Turma;310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;LP;5;5;100.0;12;11;8;72.73;Médio
+Turma;310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;5EF;Turma 1;LP;5;5;100.0;10;9;5;55.56;Médio
+Turma;310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;MT;5;5;100.0;10;9;5;55.56;Médio
+Turma;310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;LP;5;4;80.0;12;11;10;90.91;Alto
+Escola;310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;;LP;10;9;90.0;10;10;6;60.0;Médio
+Escola;310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;;LP;10;10;100.0;12;11;9;81.82;Alto
+Escola;310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;;MT;10;9;90.0;10;10;6;60.0;Médio
+Escola;310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;5EF;;LP;5;5;100.0;10;9;5;55.56;Médio
+Escola;310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;;LP;5;4;80.0;12;11;10;90.91;Alto
+Escola;310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;;MT;5;5;100.0;10;9;5;55.56;Médio
+Municipio;310627;Hogwarts;Municipal;;;9EF;;MT;15;14;93.33;10;10;6;60.0;Médio
+Municipio;310627;Hogwarts;Municipal;;;9EF;;LP;15;14;93.33;12;11;9;81.82;Alto
+Municipio;310627;Hogwarts;Municipal;;;5EF;;LP;15;14;93.33;10;10;6;60.0;Médio

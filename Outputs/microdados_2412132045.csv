@@ -1,0 +1,46 @@
+cd_municipio_ibge;nm_municipio;dc_rede_escola;cd_escola_inep;nm_escola;dc_etapa_turma;nm_turma;cd_aluno_inep;nm_aluno;dc_disciplina;qt_itens_apresentados;qt_itens_respondidos;qt_acertos;tx_acertos;dc_classificacao
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;1236;Vincent Crabbe;LP;12;9;6;66.67;Médio
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;1236;Vincent Crabbe;MT;10;9;5;55.56;Médio
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;1474;Rony Weasley;LP;12;10;10;100.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;1474;Rony Weasley;MT;10;10;7;70.0;Médio
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;1596;Harry Potter;LP;12;12;12;100.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;1596;Harry Potter;MT;10;10;9;90.0;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;5EF;Turma 1;2549;Camille Dubois;LP;10;10;2;20.0;Muito baixo
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;2585;Neville Longbottom;LP;12;12;9;75.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;2585;Neville Longbottom;MT;10;10;6;60.0;Médio
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;3214;Gregory Goyle;LP;12;12;9;75.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;3214;Gregory Goyle;MT;10;9;7;77.78;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;3215;Antoine Rousseau;LP;12;12;9;75.0;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;3215;Antoine Rousseau;MT;10;9;5;55.56;Médio
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;3578;Hermione Granger;LP;12;11;11;100.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;3578;Hermione Granger;MT;10;8;8;100.0;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;3642;Phillipe Monet;LP;12;11;11;100.0;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;3642;Phillipe Monet;MT;10;8;8;100.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Lufa-Lufa;3652;Susan Bones;LP;10;10;6;60.0;Médio
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Corvinal;3687;Padma Patil;LP;10;9;5;55.56;Médio
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;3696;Seamus Finnigan;LP;12;10;8;80.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Grifinória;3696;Seamus Finnigan;MT;10;;;;
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;4569;Blaise Zabini;LP;12;10;5;50.0;Médio
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;4569;Blaise Zabini;MT;10;10;3;30.0;Baixo
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;5EF;Turma 1;4985;Fleur Delacour;LP;10;8;8;100.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;6541;Pansy Parkinson;LP;12;10;10;100.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;6541;Pansy Parkinson;MT;10;10;8;80.0;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;5EF;Turma 1;7415;Gabrielle Delacour;LP;10;10;8;80.0;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;5EF;Turma 1;7853;Jean-Claude Durand;LP;10;10;2;20.0;Muito baixo
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Lufa-Lufa;7896;Cedrico Diggory;LP;10;10;9;90.0;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;8524;Isabelle Chénier;LP;12;10;8;80.0;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;8524;Isabelle Chénier;MT;10;10;2;20.0;Muito baixo
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Lufa-Lufa;8561;Ernie Macmillan;LP;10;8;8;100.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Corvinal;8745;Luna Lovegood;LP;10;10;8;80.0;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;9345;Marc Lemaitre;LP;12;;;;
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;9345;Marc Lemaitre;MT;10;10;2;20.0;Muito baixo
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Corvinal;9364;Terry Boot;LP;10;10;3;30.0;Baixo
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Corvinal;9612;Cho Chang;LP;10;9;7;77.78;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;5EF;Turma 1;9635;Louise Bianchi;LP;10;9;5;55.56;Médio
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;9654;Sophie Laurent;LP;12;10;10;100.0;Alto
+310627;Hogwarts;Municipal;31258;Beauxbatons Academy of Magic;9EF;Turma 2;9654;Sophie Laurent;MT;10;10;8;80.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Lufa-Lufa;9655;Justin Finch-Fletchley;LP;10;10;4;40.0;Baixo
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Lufa-Lufa;9674;Hannah Abbott;LP;10;10;7;70.0;Médio
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;5EF;Corvinal;9784;Michael Corner;LP;10;;;;
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;9874;Draco Malfoy;LP;12;12;12;100.0;Alto
+310627;Hogwarts;Municipal;25789;Escola de Magia e Bruxaria de Hogwarts;9EF;Sonserina;9874;Draco Malfoy;MT;10;10;4;40.0;Baixo
